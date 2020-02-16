@@ -1,0 +1,182 @@
+[
+  {
+    "id": 303,
+    "sha": "08800c8fabda720fc2f372754c2f8937d6172aa4",
+    "ref": "master",
+    "status": "success",
+    "created_at": "2020-01-15T10:36:16.305Z",
+    "updated_at": "2020-01-15T10:40:50.147Z",
+    "web_url": "https://gitlab.localhost.localdomain/group/groupapi/pipelines/303"
+  },
+  {
+    "id": 302,
+    "sha": "7ce4eeb5c28ae3e78c0c8a213276dc66162b5813",
+    "ref": "master",
+    "status": "success",
+    "created_at": "2020-01-15T10:28:28.792Z",
+    "updated_at": "2020-01-15T10:35:07.990Z",
+    "web_url": "https://gitlab.localhost.localdomain/group/groupapi/pipelines/302"
+  },
+  {
+    "id": 249,
+    "sha": "b2b937d58f6ecdae23f4efece025c5e3158103a4",
+    "ref": "master",
+    "status": "success",
+    "created_at": "2019-11-27T18:41:22.532Z",
+    "updated_at": "2020-01-08T18:07:59.650Z",
+    "web_url": "https://gitlab.localhost.localdomain/group/groupapi/pipelines/249"
+  },
+  {
+    "id": 248,
+    "sha": "4f351c89075cc7f5b0b5d0d5cee5499c8ac56a31",
+    "ref": "master",
+    "status": "success",
+    "created_at": "2019-11-27T18:24:14.553Z",
+    "updated_at": "2019-11-27T18:28:56.335Z",
+    "web_url": "https://gitlab.localhost.localdomain/group/groupapi/pipelines/248"
+  },
+  {
+    "id": 244,
+    "sha": "4e6a7bc6a1cc1b32a2cc3db5bb1afc44a82adafe",
+    "ref": "master",
+    "status": "failed",
+    "created_at": "2019-11-25T18:38:42.970Z",
+    "updated_at": "2019-11-25T18:39:43.765Z",
+    "web_url": "https://gitlab.localhost.localdomain/group/groupapi/pipelines/244"
+  },
+  {
+    "id": 243,
+    "sha": "e8855e956e53c4ad04697a725a84d7bd4c5f441c",
+    "ref": "master",
+    "status": "success",
+    "created_at": "2019-11-25T17:24:39.640Z",
+    "updated_at": "2019-11-25T17:37:05.765Z",
+    "web_url": "https://gitlab.localhost.localdomain/group/groupapi/pipelines/243"
+  },
+  {
+    "id": 241,
+    "sha": "6dfe4625158699bedf0cbfb60486aea70dc1952c",
+    "ref": "master",
+    "status": "success",
+    "created_at": "2019-11-24T18:38:37.847Z",
+    "updated_at": "2019-11-24T18:41:18.035Z",
+    "web_url": "https://gitlab.localhost.localdomain/group/groupapi/pipelines/241"
+  },
+  {
+    "id": 240,
+    "sha": "66f2e3af3461497a7b9d45a0dc19cb0eaca08063",
+    "ref": "master",
+    "status": "failed",
+    "created_at": "2019-11-24T18:34:12.747Z",
+    "updated_at": "2019-11-24T18:36:06.796Z",
+    "web_url": "https://gitlab.localhost.localdomain/group/groupapi/pipelines/240"
+  },
+  {
+    "id": 239,
+    "sha": "bf39b42099189c08489657548b28a250f17c1905",
+    "ref": "master",
+    "status": "failed",
+    "created_at": "2019-11-24T18:23:33.141Z",
+    "updated_at": "2019-11-24T18:27:22.500Z",
+    "web_url": "https://gitlab.localhost.localdomain/group/groupapi/pipelines/239"
+  },
+  {
+    "id": 238,
+    "sha": "1e66d880338a439257ede628745125f1d4f0059d",
+    "ref": "master",
+    "status": "failed",
+    "created_at": "2019-11-24T18:20:18.279Z",
+    "updated_at": "2019-11-24T18:22:23.177Z",
+    "web_url": "https://gitlab.localhost.localdomain/group/groupapi/pipelines/238"
+  },
+  {
+    "id": 237,
+    "sha": "9b2d61214d5c279614f1205a88ea4a53b7c58661",
+    "ref": "master",
+    "status": "success",
+    "created_at": "2019-11-24T18:01:16.867Z",
+    "updated_at": "2019-11-24T18:03:53.187Z",
+    "web_url": "https://gitlab.localhost.localdomain/group/groupapi/pipelines/237"
+  },
+  {
+    "id": 236,
+    "sha": "895084fa6a3a8e93c14be4b134e6436565da43d4",
+    "ref": "master",
+    "status": "success",
+    "created_at": "2019-11-24T17:46:55.966Z",
+    "updated_at": "2019-11-24T17:49:56.767Z",
+    "web_url": "https://gitlab.localhost.localdomain/group/groupapi/pipelines/236"
+  },
+  {
+    "id": 235,
+    "sha": "46962c613b67c5cb933d8505de96eae9e525488c",
+    "ref": "master",
+    "status": "success",
+    "created_at": "2019-11-24T17:27:20.493Z",
+    "updated_at": "2019-11-24T17:40:05.388Z",
+    "web_url": "https://gitlab.localhost.localdomain/group/groupapi/pipelines/235"
+  },
+  {
+    "id": 234,
+    "sha": "c0abdf630e5924d2c0318a9414e09fde0f2b0875",
+    "ref": "master",
+    "status": "success",
+    "created_at": "2019-11-24T17:02:50.713Z",
+    "updated_at": "2019-11-24T17:08:10.402Z",
+    "web_url": "https://gitlab.localhost.localdomain/group/groupapi/pipelines/234"
+  },
+  {
+    "id": 233,
+    "sha": "a7307555c30b2dc6238c412ecc4a8f70456190ef",
+    "ref": "master",
+    "status": "success",
+    "created_at": "2019-11-24T16:54:36.205Z",
+    "updated_at": "2019-11-24T17:01:43.263Z",
+    "web_url": "https://gitlab.localhost.localdomain/group/groupapi/pipelines/233"
+  },
+  {
+    "id": 232,
+    "sha": "a12587e3a9c3c9e333ded7a4c6fcb8133458f044",
+    "ref": "master",
+    "status": "failed",
+    "created_at": "2019-11-24T15:58:56.462Z",
+    "updated_at": "2019-11-24T16:21:36.154Z",
+    "web_url": "https://gitlab.localhost.localdomain/group/groupapi/pipelines/232"
+  },
+  {
+    "id": 231,
+    "sha": "0672989e2e23f7f38d4334bac5de846374d30685",
+    "ref": "feature/test",
+    "status": "success",
+    "created_at": "2019-11-24T15:47:12.141Z",
+    "updated_at": "2019-11-24T15:58:49.409Z",
+    "web_url": "https://gitlab.localhost.localdomain/group/groupapi/pipelines/231"
+  },
+  {
+    "id": 230,
+    "sha": "667c7ac7514ab2977ea8ad799a200bd63b4a13cf",
+    "ref": "feature/test",
+    "status": "success",
+    "created_at": "2019-11-24T13:45:55.738Z",
+    "updated_at": "2019-11-24T13:54:48.051Z",
+    "web_url": "https://gitlab.localhost.localdomain/group/groupapi/pipelines/230"
+  },
+  {
+    "id": 229,
+    "sha": "23af7e708eef7bf5e80c1aa04e6f991e45b628f8",
+    "ref": "feature/test",
+    "status": "failed",
+    "created_at": "2019-11-24T13:00:28.618Z",
+    "updated_at": "2019-11-24T13:08:47.866Z",
+    "web_url": "https://gitlab.localhost.localdomain/group/groupapi/pipelines/229"
+  },
+  {
+    "id": 228,
+    "sha": "5ee40d4edd49d9f85aef358c5d64e612175832df",
+    "ref": "master",
+    "status": "failed",
+    "created_at": "2019-11-24T12:47:13.732Z",
+    "updated_at": "2019-11-24T12:55:51.941Z",
+    "web_url": "https://gitlab.localhost.localdomain/group/groupapi/pipelines/228"
+  }
+]

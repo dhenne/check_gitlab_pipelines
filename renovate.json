@@ -3,5 +3,8 @@
   "extends": [
     "config:base"
   ],
-  "enabledManagers": ["pipenv"]
+  "enabledManagers": ["pipenv"],
+  "pipenv": {
+    "enabled": true
+  }
 }

@@ -6,6 +6,7 @@ import nagiosplugin
 import argparse
 import requests
 import re
+import sys
 
 from datetime import datetime
 
@@ -178,8 +179,7 @@ class GitlabSummary(nagiosplugin.Summary):
         return string
 
 
-@nagiosplugin.guarded
-def main():
+def create_argparser(args):
     """
     parse args
     """
@@ -211,8 +211,13 @@ def main():
     )
     argp.add_argument('-v', '--verbose', action='count', default=0)
 
-    args = argp.parse_args()
+    return argp.parse_args(args)
 
+
+@nagiosplugin.guarded
+def main():
+
+    args = create_argparser(sys.argv[1:])
     """
     start checks
     """
@@ -225,4 +230,4 @@ def main():
 
 
 if __name__ == '__main__':
-    main()
+    main(sys)
